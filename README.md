@@ -1,4 +1,4 @@
-<img src="https://cloud.githubusercontent.com/assets/13212227/22727581/f3d076ae-ee1c-11e6-8978-d77ef0b60b8c.png" height=300px>
+<img src="https://cloud.githubusercontent.com/assets/13212227/22728086/63ca8b1e-ee1f-11e6-9296-f94862da0097.png" width=700px>
 
 # BooungJS
 Vulnerability analysis to javascript using javascript and web debugger
